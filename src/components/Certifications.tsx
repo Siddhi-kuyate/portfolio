@@ -4,6 +4,7 @@ import { BadgeCheck, Sparkles, Calendar, Eye, X } from "lucide-react";
 
 import googleCloudCert from "../assets/certificate1.jpg";
 import kaggleCert from "../assets/certificate2.jpg";
+import deloitte from "../assets/certificate3.jpg";
 
 const certs = [
   {
@@ -16,7 +17,7 @@ const certs = [
     border: "border-purple-500/30",
     initial: "D",
     initialsColor: "text-purple-400",
-    image: null
+    image: deloitte
   },
   {
     title: "Python Coder",
