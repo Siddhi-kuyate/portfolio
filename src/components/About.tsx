@@ -30,8 +30,8 @@ export function About() {
             <div className="absolute top-0 right-0 w-64 h-64 bg-primary/10 rounded-full blur-[80px] -translate-y-1/2 translate-x-1/3" />
             
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed relative z-10 mb-10">
-              Motivated MCA student with strong web development skills and a passion for creating modern, responsive applications. Experienced in front-end development with expertise in HTML, CSS, JavaScript, and Bootstrap. Eager to contribute to innovative technology solutions and build products that make a difference.
-            </p>
+              Full Stack Web Developer and MCA student with two development internships and a client website deployed live using React and Supabase. Works across the stack: responsive front-ends with React, JavaScript, HTML, CSS, and Bootstrap, and back-end and data work with Supabase and MySQL, using Git and GitHub for version control. Used to working on real client projects as part of a team, and looking for a software developer role where I can build and ship production-quality web applications.
+             </p> 
 
             <div className="flex flex-wrap gap-4 relative z-10">
               {traits.map((trait, index) => (
