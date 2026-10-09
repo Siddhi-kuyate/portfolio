@@ -4,7 +4,7 @@ import { ArrowRight, Download, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import profilePhoto from "../assets/profile.png";
 
-const ROLES = ["MCA Student", "Front-End Developer", "Web Developer"];
+const ROLES = ["MCA Student", "Full Stack Developer", "Web Developer"];
 const TYPE_SPEED = 70;
 const DELETE_SPEED = 40;
 const PAUSE_DURATION = 1800;
